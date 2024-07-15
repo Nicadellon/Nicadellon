@@ -1,5 +1,6 @@
-<img align=center src="https://avatars.githubusercontent.com/u/175215429?v=4">
-
+<section align=center>
+<img src="https://avatars.githubusercontent.com/u/175215429?v=4">
+</section>
 # Hello, I'm Nicadellon! 👋
 
 As an independent validator with **years of experience**, I've navigated through numerous testnets and emerged as a seasoned **DevOps engineer**. My journey has been marked by a relentless pursuit of excellence and a deep commitment to the blockchain community.
