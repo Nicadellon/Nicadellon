@@ -19,6 +19,7 @@ If you're passionate about blockchain and looking for an experienced validator a
 
 ## My guides ⚙️
 
+- [EigenLayer](https://github.com/Nicadellon/eigenlayer-operator)
 - [0G](https://github.com/Nicadellon/my-0g-guide)
 - [Warden](https://github.com/Nicadellon/my-warden-install-guide)
 - [Fleek](https://github.com/Nicadellon/my-fleek-guide/tree/main)
